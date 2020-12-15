@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "noticias"
+  "defaultProject": "noticias",
+  "cli": {
+    "analytics": "33c1723b-0f6f-43a8-ba05-432fbdea811d"
+  }
 }
