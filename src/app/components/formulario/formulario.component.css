@@ -1,0 +1,11 @@
+.heading {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 900;
+    font-size: 2rem;
+    text-transform: uppercase;
+    text-align: center;
+} 
+
+.btn {
+    font-size: 1.5rem;
+}
